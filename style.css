@@ -11,10 +11,12 @@
 
 header {
     grid-area: header;
+    background-color: aqua;
 }
 
 aside {
     grid-area: aside;
+    background-color: aquamarine;
 }
 
 main {
@@ -23,6 +25,7 @@ main {
 
 footer {
     grid-area: footer;
+    background-color: antiquewhite;
 }
 
 section.overview-content {
@@ -43,8 +46,10 @@ section.chart-content {
 
 .chart {
     grid-area: chart;
+    background-color: beige;
 }
 
 .chart-overview {
     grid-area: overview;
+    background-color: azure;
 }
